@@ -1,0 +1,105 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+header {
+    background-color: #333;
+    color:silver;
+    
+    padding: 20px;
+}
+
+nav {
+    background-color:black;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ddd;
+    color: #333;
+}
+
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+.t3{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.t4{
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.t6{
+    display: flex;
+    position: relative ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+
+}
+.t5{
+    display: flex;
+    position: relative;
+
+}
+.t7{
+    display: flex;
+    position: relative;
+    
+}
+.t9{
+    text-align: center;
+}
+.t11{
+    display: flex;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.T12{
+        display: flex;
+        position: relative;}
+.t13{
+    display: flex;
+    position: relative;
+}        
+.t14{
+    display: flex;
+    position: relative;
+    font-family: cursive;
+}
+.nav1{
+    background-color: red;
+}
+.t15{
+    font-family: 'Times New Roman', Times, serif;
+}
+            
+    
+
+    
+    
+    
